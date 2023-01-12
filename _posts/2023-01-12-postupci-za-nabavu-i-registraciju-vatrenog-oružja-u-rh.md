@@ -1,6 +1,10 @@
 ---
 title: "Postupci za nabavu i registraciju vatrenog oružja u RH"
 excerpt_separator: "<!--more-->"
+header:
+  image: /assets/images/header-pistol.jpg
+  image_description: "Header image of `HS H11` pistol."
+
 toc: true
 toc_sticky: true
 categories:
@@ -20,19 +24,19 @@ U ovome članku navesti ćemo sve predispozicije i korake za dobivanje dozvole z
 
 ## Postupci
 
-U ovome dijelu navesti ćemo sve potrebne korake vezane za nabavu i registraciju oružja. Svaki korak ćemo detaljno objasniti i opisati iskustva s kojima smo se susreli tijekom obavljanja postupaka.
+U ovome dijelu redom ćemo navesti sve potrebne korake vezane za nabavu i registraciju oružja. Svaki korak ćemo detaljno objasniti i opisati iskustva s kojima smo se susreli tijekom obavljanja postupaka.
 
 ### 1. Polaganje lovačkog ispita
 
 #### 1.1 Prijava na online edukaciju za Lovca unutar Hrvatskog Lovačkog Saveza (HLS)
 
-#### 1.1 Pismeni i usmeni ispit
+#### 1.2 Pismeni i usmeni ispit
 
-#### 1.1 Izdavanje Lovačke iskaznice
+#### 1.3 Izdavanje Lovačke iskaznice
 
 ### 2. Izdavanje dozvole za nabavku lovačkog oružja
 
-#### Dostava potrebne dokumentacije u MUP
+#### 2.1 Dostava potrebne dokumentacije u MUP
 
 ### 3. Liječnički pregled za držanje i nošenje oružja u ovlaštenoj zdravstvenoj ustanovi
 
