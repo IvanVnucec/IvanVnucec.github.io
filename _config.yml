@@ -58,7 +58,7 @@ plugins:
 
 author:
   name   : "Ivan Vnučec"
-  avatar : "/assets/images/bio-photo-ivanvnucec.jpg"
+  avatar : "/assets/images/bio-photo-ivanvnucec.png"
   bio    : "Embedded software engineer."
   links:
     - label: "GitHub"
