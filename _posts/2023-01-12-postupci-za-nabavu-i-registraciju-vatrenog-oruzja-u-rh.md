@@ -5,7 +5,6 @@ header:
   image: /assets/images/header-pistol.jpg
   image_description: "Header image of `HS H11` pistol."
   caption: "Photo credit: [**HS Produkt**](https://hs-produkt.hr)"
-
 toc: true
 toc_sticky: true
 categories:
