@@ -16,16 +16,16 @@ tags:
   - nabava oružja
 ---
 
-U ovome članku navesti ćemo sve predispozicije i korake za dobivanje dozvole za držanje i nošenje oružja u Republici Hrvatskoj, i objasniti ćemo sve postupke nabave i registracije samog oružja. Oružje koje ćemo registrirati je lovačkog tipa što podrazumijeva da osoba prvotno položi lovački ispit, što će također biti objašnjeno u ovom članku.
+U ovom članku navesti ćemo sve predispozicije i korake za dobivanje dozvole za držanje i nošenje oružja, te postupak nabave i registracije oružja u Republici Hrvatskoj. Registrirati ćemo lovačko oružje što podrazumijeva da osoba ima položen lovački ispit, što će također biti objašnjeno u ovom članku.
 
 <!--more-->
 
-**Upozorenje:** Činjenica je da se zakoni i pravilnici mijenjaju te da ovaj članak vrijedi u trenutku njegovog pisanja (siječanj, 2023). Moguće je da će informacije iz članka odudarati od stvarnih u bližoj ili daljnjoj budućnosti.
+**Upozorenje:** Zakoni, pravilnici i postupci navedeni u članku vrijede u trenutku njegovog pisanja (siječanj, 2023), te postoji mogućnost da će oni odudarati od stvarnih u trenutku čitanja.
 {: .notice--warning}
 
 ## Postupci
 
-U ovome dijelu redom ćemo navesti sve potrebne korake vezane za nabavu i registraciju oružja. Svaki korak ćemo detaljno objasniti i opisati iskustva s kojima smo se susreli tijekom obavljanja postupaka.
+U ovom dijelu redom ćemo navesti sve potrebne korake vezane za nabavu i registraciju lovačkog oružja - od polaganja lovačkog ispita, pa sve do registracije oružja. Svaki korak ćemo detaljno objasniti i opisati iskustva s kojima smo se susreli tijekom obavljanja postupaka.
 
 ### 1. Polaganje lovačkog ispita
 
