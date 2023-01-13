@@ -47,4 +47,5 @@ U ovom dijelu redom ćemo navesti sve potrebne korake vezane za nabavu i registr
 
 ## Korisne poveznice
 
+- [Kako postati lovac - HLS](http://www.hls.com.hr/kako-postati-lovac)
 - [Službena MUP-ova stranica o oružju](https://mup.gov.hr/oruzje-327/327)
