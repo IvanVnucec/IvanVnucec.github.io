@@ -28,13 +28,17 @@ U ovom dijelu redom ćemo navesti sve potrebne korake vezane za nabavu i registr
 
 ### 1. Polaganje lovačkog ispita
 
+Postupak kreće od polaganja lovačkog ispita. Nakon uspješno položenog lovačkog ispita osoba dobiva zvanje lovca. Prednost zvanja lovca osobi omogućuje dobivanje dozvole i za držanje i za nošenje oružja, dok primjerice osobama koje se bave sportskim streljaštvom nije moguće izdati dozvolu za nošenje oružja (vidi [Zakon o nabavi i posjedovanju oružja građana](https://www.zakon.hr/z/1161/Zakon-o-nabavi-i-posjedovanju-oru%C5%BEja-gra%C4%91ana), članak 19. stavak 2.).
+
 #### 1.1 Prijava na online edukaciju za Lovca unutar Hrvatskog Lovačkog Saveza (HLS)
 
 #### 1.2 Pismeni i usmeni ispit
 
 #### 1.3 Izdavanje Lovačke iskaznice
 
-### 2. Izdavanje dozvole za nabavku lovačkog oružja
+### 2. Izdavanje dozvole za nabavu oružja
+
+Nakon polaganja lovačkog ispita slijedi izdavanje dozvole za nabavu oružja. Prvo se podnosi Zahtjev za nabavu oružja u policijskoj upravi/postaji prema mjestu prebivališta podnositelja zahtjeva. Autor teksta živi u Zagrebu i papire je podnio u Policijskoj upravi zagrebačkoj - Odjel za oružja (Petrinjska 30, soba br. 4).
 
 #### 2.1 Dostava potrebne dokumentacije u MUP
 
