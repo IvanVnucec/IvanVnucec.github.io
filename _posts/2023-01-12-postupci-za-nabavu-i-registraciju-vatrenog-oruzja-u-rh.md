@@ -11,8 +11,6 @@ categories:
   - Blog
 tags:
   - oružje
-  - registracija oružja
-  - nabava oružja
 ---
 
 U ovom članku navesti ćemo sve predispozicije i korake za dobivanje dozvole za držanje i nošenje oružja, te postupak nabave i registracije oružja u Republici Hrvatskoj. Registrirati ćemo lovačko oružje što podrazumijeva da osoba ima položen lovački ispit, što će također biti objašnjeno u ovom članku.
