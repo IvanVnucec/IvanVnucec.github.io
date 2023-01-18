@@ -15,31 +15,12 @@ tags:
 
 {% comment %}
 TODOS:
-- registracija online
-  - placanje 500 kn
-    - dodaj oprez radi promjene cijena
-    - navedi zasto je tako pristupacna cijena - zbog manjka lovaca
-  - jeftinije alternative nema, svi ostali po 3k kuna
-  - uploadanje slike osobne, profilne
-  - osnovni podaci
-  - potvrda banke o placanju
-  - cekanje potvrde
-- online edukacija
-  - unaprijed snimljena predavanja
-  - oko 6 ciklusa po 2h u prosjeku
-  - snimke se gledaju kada zelite i koliko puta zelite
-  - odlicno snimljena, zanimljiva
-  - jedno obvezno 2h predavanje uzivo (o oruzju)
-    - u uredima HLS-a
-    - pokazivanje muzeja i trofeja
-    - jako zanimljivo
-    - napisi da je bilo i nekoliko zena
-      - pozovi vise zena da se ne boje doc
 - probni ispiti
   - dobar nacin za uvjezbavanje ispita
   - pitanja iz [knjige](dodaj link, citat, cijenu)
   - topla preporuka knjige
 - online ispit
+  - napisi kako korisnik ima vremenski interval kada je moguce pristupiti ispitu
   - 30tak pitanja
   - prag od 70%
   - relativno lagan ako ste radili po pitanjima iz [knjige]
@@ -132,17 +113,29 @@ U ovom dijelu redom ćemo navesti sve potrebne korake vezane za nabavu i registr
 
 ### 1. Polaganje lovačkog ispita
 
-Postupak kreće od polaganja lovačkog ispita. Nakon uspješno položenog lovačkog ispita osoba dobiva zvanje lovca. Prednost zvanja lovca osobi omogućuje dobivanje dozvole i za držanje i za nošenje oružja, dok primjerice osobama koje se bave sportskim streljaštvom nije moguće izdati dozvolu za nošenje oružja (vidi [Zakon o nabavi i posjedovanju oružja građana](https://www.zakon.hr/z/1161/Zakon-o-nabavi-i-posjedovanju-oru%C5%BEja-gra%C4%91ana), članak 19. stavak 2.).
+Postupak kreće od edukacije i završava polaganjem lovačkog ispita. Nakon uspješno položenog lovačkog ispita osoba dobiva zvanje lovca. Prednost zvanja lovca osobi omogućuje dobivanje dozvole i za držanje i za nošenje oružja, dok primjerice osobama koje se bave sportskim streljaštvom nije moguće izdati dozvolu za nošenje oružja (vidi [Zakon o nabavi i posjedovanju oružja građana](https://www.zakon.hr/z/1161/Zakon-o-nabavi-i-posjedovanju-oru%C5%BEja-gra%C4%91ana), članak 19. stavak 2.).
 
-#### 1.1 Prijava na online edukaciju za zvanje lovca unutar Hrvatskog Lovačkog Saveza (HLS)
+#### 1.1 Registracija na online edukaciju za zvanje lovca unutar Hrvatskog Lovačkog Saveza (HLS)
 
-Online edukacija HLS-a za zvanje lovca vrlo je praktična jer od osobe ne iziskuje nikakve druge radnje osim da se registrira pomoću online obrasca, odsluša online predavanja koja su unaprijed snimljena tako da nemate problema sa spajanjem uživo i videozapise možete gledati kada želite, koliko puta želite, i na kraju slijedi online ispit.
+Online edukacija HLS-a za zvanje lovca vrlo je praktična jer od osobe ne iziskuje nikakve druge radnje osim da se registrira pomoću online obrasca, odsluša online predavanja koja su unaprijed snimljena tako da nemate problema sa spajanjem uživo i videozapise možete pogledati kada želite i koliko puta želite. Na kraju slijedi online ispit.
 
-Prijava na online edukaciju za zvanje lovca obavili smo  pomoću _HLS edu_ platforme registracijom na stranici [hls-edu.hr/registracija](https://hls-edu.hr/registracija/). Sluzbene upute za registraciju nalaze se ovdje
+Prijava na online edukaciju za zvanje lovca obavili smo pomoću [hls-edu.hr](https://hls-edu.hr) platforme registracijom na stranici [hls-edu.hr/registracija](https://hls-edu.hr/registracija/). Sluzbene upute za registraciju mogu se pronaci [ovdje](https://hls-edu.hr/wp-content/uploads/2022/03/HLS-EDU-help.pdf).
 
-#### 1.2 Pismeni i usmeni ispit
+Prilikom registracije pomoću formulara potrebno je priloziti osobne podatke kao sto su ime i prezime, datum rodjenja, mjesto prebivalista i dr., lice i nalicje osobne iskaznice, bankovna potvrda o placanju edukacije (€66.36) ili fotografija uplatnice, profilna fotografija i dr. Jednom kada smo pohranili sve potrebne podatke slijedi cekanje potvrde HLS-a da su svi podaci valjani i da nam dopuste da sudjelujemo u edukaciji.
 
-#### 1.3 Izdavanje Lovačke iskaznice
+Moramo spomenuti i pohvaliti pristupacnu cijenu online edukacije od svega 500 kn (€66.36). Razlog pristupacne cijene je u tome sto nedostaje (mladih) hrvatskih lovaca koji bi se u buducnosti brinuli o hrvatskim lovistima. Alternativne edukacije za lovca postoje u drugim ucilistima, ali cijenovno su visestruko skuplje. Kvalitetu takvih edukacija u usporedbi sa online edukacijom HLS-a autor ne može suditi jer ne posjeduje iskustvo. Naravno, valja uzeti u obzir sve reperkusije koje donosi online predavanja kao što je cinjenica da nakon uspjesno odgledanih online predavanja o lovstvu, pristupnik još uvijek nije dobio doticaj sa pravim svijetom lovstva. Čak štoviše, nakon uspješno položenog ispita za lovca, pristupnik doslovce nije morao primiti pušku u ruke. Naravno, netko bi mogao reći kako za zvanje lovca nije potrebno rukovati oružjem jer djelatnost lovca nije samo u odstrelu divljači već i u brizi za lovištem (kao što ćete ćuti na predavanjima).
+
+#### 1.2 Online edukacija
+
+Nakon uspjesne registracije slijedi online edukacija. Online edukacija sastoji se od otprilike 6 ciklusa o lovstvu, gdje je svakom ciklusu dodijeljena odredjena teorijska cijelina. Svaki ciklus sastoji se od unaprijed snimljenih videozapisa gdje svaki videozapis traje otprilike oko dva sata. Predavanja su vrlo dobro snimljena. Sve se dobro vidi i čuje, te su zanimljiva i poučna. Autor priznaje kako prije nego što se je odlučio postati lovcem, nije bio toliko zainteresiran za lovstvo, već je samo zelio dobiti lovačku iskaznicu, ali nakon odslusanih predavanja shvatio je kako je lovstvo cijenjena i potrebna djelatnost i da se ona ne sastoji samo u odstrelu zivotinja, kako će to neki možda pojednostaviti. Videozapisi se mogu prikazivati onda kada vi to zelite i koliko puta zelite, što pruža veliku fleksibilnost.  
+
+Valja spomenuti kako postoji i jedno predavanje uživo u prostorima HLS-a ([Ul. Vladimira Nazora 63, 10000, Zagreb](https://goo.gl/maps/p52NiMSh7EYa3Qnx7)), te ukljucuje jedno dvo-satno predavanje o lovačkom oružju. Predavanje je obvezno i sudionici će se morati potpisati na papir kako bi dokazali svoje prisutstvo. Na predavanju je bilo prisutno oko 20 polaznika. Na poučnom predavanju pokazali su nam nekoliko tipova lovačkog oružja. Predavač je dao nekoliko praktičnih savjeta oko nabavke lovačkog oružja i njegovog održavanja. Autor preporuča da prije predavanja pristupnik odgleda online videozapise predavanja kako bi lakše pratio tematiku. Nakon predavanja, sudionici su imali prilike obići prostore muzeja HLS-a gdje su vidjeli primjerke raznih divljači - medvjeda, srnjaka, divlje svinje, jelena i dr. Takodjer, u muzeju je moguće vidjeti i nekoliko primjeraka vrhunskih trofeja (vidi [HLS - trofeiskita](http://www.hls.com.hr/trofeistika-2)) koji predstavljaju do tada najbolje primjerke trofeja ulovljenih u RH.
+
+Autor mora pohvaliti inicijativu nekoliko tada prisutnih pripadnica ženskog spola koje su se odvažile postati lovkinjama. Ovim putem autor poziva i ostale pripadnice da se odvaze u svijetu lovstva.  
+
+#### 1.3 Pismeni i usmeni ispit
+
+#### 1.4 Izdavanje Lovačke iskaznice
 
 ### 2. Izdavanje dozvole za nabavu oružja
 
