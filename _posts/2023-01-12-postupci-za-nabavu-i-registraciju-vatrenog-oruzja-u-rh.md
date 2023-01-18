@@ -13,6 +13,112 @@ tags:
   - oružje
 ---
 
+{% comment %}
+TODOS:
+- registracija online
+  - placanje 500 kn
+    - dodaj oprez radi promjene cijena
+    - navedi zasto je tako pristupacna cijena - zbog manjka lovaca
+  - jeftinije alternative nema, svi ostali po 3k kuna
+  - uploadanje slike osobne, profilne
+  - osnovni podaci
+  - potvrda banke o placanju
+  - cekanje potvrde
+- online edukacija
+  - unaprijed snimljena predavanja
+  - oko 6 ciklusa po 2h u prosjeku
+  - snimke se gledaju kada zelite i koliko puta zelite
+  - odlicno snimljena, zanimljiva
+  - jedno obvezno 2h predavanje uzivo (o oruzju)
+    - u uredima HLS-a
+    - pokazivanje muzeja i trofeja
+    - jako zanimljivo
+    - napisi da je bilo i nekoliko zena
+      - pozovi vise zena da se ne boje doc
+- probni ispiti
+  - dobar nacin za uvjezbavanje ispita
+  - pitanja iz [knjige](dodaj link, citat, cijenu)
+  - topla preporuka knjige
+- online ispit
+  - 30tak pitanja
+  - prag od 70%
+  - relativno lagan ako ste radili po pitanjima iz [knjige]
+  - moguće je varanje jer se ne zahtjevaju snimanje s kamerom i slicno ali sacuvajte dobar obraz pa sve legalno prodjite
+  - stvarno je lagano
+- usmeni ispit
+  - termin od [tad do tad](vidi mailove)
+  - u prostorima hls-a
+  - pitanja se mogu nauciti iz [opet one knjige s pitanjima]
+  - meni je bio profesor (dodaj koji)
+  - 1 na 1 ispitivanje
+  - navedi pitanja
+    - pitanja su osnovna
+    - nabroji krupne divljači
+    - sto radi lovnik u lovu
+    - ako jelen obican na jednoj strani rogovlja ima 6 parozaka, a na drugoj strani 6, navedi trofejni razred - nesimetricni dvanaesterac
+    - razlika privatnih od drzavnih lovista
+  - oko 10 min razgovora
+  - pristupacna pitanja uz pojasnjenja profesora ako se nesto nije znalo
+- cekanje papirologije
+  - vidi mail koliko se dugo cekalo
+- podizanje lovacke iskaznice
+  - vidi mail za termine
+  - vidi koliko $ treba uplatit
+  - napisi kako rade od 7:00h ujutro al stranke primaju ili od 8 ili od pol8, napisi kako je frajer bio malko neljubazan a gospodja super ljubazna
+  - napisi zasto je mozda potrebno donjet drugu fotofrafiju
+  - napisi da se moze uzet opcija casopisa (vidi koji, kolko kosta)
+- lijecnicki pregled
+  - navedi gdje si isao
+  - napisi na koji pregled je potrebno ici - pregled za drzanje i nosenje oruzja
+  - napisi cijenu pregleda
+  - navedi papirologiju koju si trebao podignut od doktorice
+  - napisi da su te trazili da im proslijedis mail od doktorice da se osiguraju da je pravi
+  - napisi koje sve preglede si prosao
+    - urin
+      - napisi da se mora doc na taste
+      - napisi da se prije ne pomokre doma jer nece moc tamo dat urin
+    - krv
+    - vid
+      - napisi da nisi vidio na 60cm
+    - psihotest
+    - pregled kod lijecnika
+  - napisi da si zbog dobrih rezultata odmah dobio potvrdu o sposobnosti za drzanje i nosenje oruzja
+    - slikaj potvrdu, izbrisi povjerljive podatke
+  - napisi kako nije dobro otici na lijecnicki pregled prije nego se je dobila potvrda o nabavci oruzja
+    - moguce je kako se protiv osobe koja potrazuje potvrdu vodi prekrsajni/kazneni postupak ili je vec bila kaznjavana prije
+    - bezveze bacen novac
+- navedi koje sve papire si donio u mup
+  - jedna nabavna dozvola za svako oruzje
+    - moguce je uzeti vise oruzja od jednom
+    - nabavna dozvola za svaki
+    - nisam siguran placa li se "biljeg" za svako
+    - napisi kako si ti uzeo samo nabavnu dozvolu za pistolj
+    - navedi s koje si stranice uzeo tipove oruzja da bi znao ispunit obrazac br. 1
+      - stavi sliku obrasca
+  - napisi da si platio rep hrv 2 eura
+  - napisi gdje si ih predao
+  - napisi kako su te vozali
+    - prvo si isao u postaju s obzirom na prebivaliste
+    - pa u petrinjsku
+- napisi postupak predavanja papira
+  - napisi koji ured
+  - napisi od kad do kad rade sa strankama
+  - napisi da si morao predat ime i ordinaciju doktorice obiteljske medicine
+    - napisi da si to morao dat pod zakonskom obvezom i da se laznost podatka kaznjava
+  - napisi kako si prilikom dostavljanja papirologije morao potpisat da doma imas sigurne uvijete drzanja oruzja makar u tom trenutku jos nisi nabavio sef/trezor za drzanje oruzja
+  - napisi kako si pitao djelatnicu dolaze li svakom doma i da je rekla kako ne dolaze svakom doma na provjeru vec samo ako za to postoji osnovana sumnja
+- napisi koliko si cekao za dozvolu
+- napisi da si prilikom podizanja dozvole opet morao platiti nekoliko kuna za podizanje dozvole
+- navedi gdje si kupio sefove/trezore za drzanje oruzja i municije
+  - stavi slike i cijene
+  - pevec, bauhaus
+  - napisi kako metci moraju biti pod posebnim kljucem
+    - napisi kako se tome pribjegne pomocu sefa u sefu
+- napisi gdje si kupio oruzje i iskustva
+- napisi kako si registrirao oruzje i iskustva
+
+{% endcomment %}
+
 U ovom članku navesti ćemo sve predispozicije i korake za dobivanje dozvole za držanje i nošenje oružja, te postupak nabave i registracije oružja u Republici Hrvatskoj. Registrirati ćemo lovačko oružje što podrazumijeva da osoba ima položen lovački ispit, što će također biti objašnjeno u ovom članku.
 
 <!--more-->
@@ -28,7 +134,11 @@ U ovom dijelu redom ćemo navesti sve potrebne korake vezane za nabavu i registr
 
 Postupak kreće od polaganja lovačkog ispita. Nakon uspješno položenog lovačkog ispita osoba dobiva zvanje lovca. Prednost zvanja lovca osobi omogućuje dobivanje dozvole i za držanje i za nošenje oružja, dok primjerice osobama koje se bave sportskim streljaštvom nije moguće izdati dozvolu za nošenje oružja (vidi [Zakon o nabavi i posjedovanju oružja građana](https://www.zakon.hr/z/1161/Zakon-o-nabavi-i-posjedovanju-oru%C5%BEja-gra%C4%91ana), članak 19. stavak 2.).
 
-#### 1.1 Prijava na online edukaciju za Lovca unutar Hrvatskog Lovačkog Saveza (HLS)
+#### 1.1 Prijava na online edukaciju za zvanje lovca unutar Hrvatskog Lovačkog Saveza (HLS)
+
+Online edukacija HLS-a za zvanje lovca vrlo je praktična jer od osobe ne iziskuje nikakve druge radnje osim da se registrira pomoću online obrasca, odsluša online predavanja koja su unaprijed snimljena tako da nemate problema sa spajanjem uživo i videozapise možete gledati kada želite, koliko puta želite, i na kraju slijedi online ispit.
+
+Prijava na online edukaciju za zvanje lovca obavili smo  pomoću _HLS edu_ platforme registracijom na stranici [hls-edu.hr/registracija](https://hls-edu.hr/registracija/). Sluzbene upute za registraciju nalaze se ovdje
 
 #### 1.2 Pismeni i usmeni ispit
 
