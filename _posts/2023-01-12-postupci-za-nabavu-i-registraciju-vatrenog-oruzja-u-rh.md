@@ -15,31 +15,7 @@ tags:
 
 {% comment %}
 TODOS:
-- probni ispiti
-  - dobar nacin za uvjezbavanje ispita
-  - pitanja iz [knjige](dodaj link, citat, cijenu)
-  - topla preporuka knjige
-- online ispit
-  - napisi kako korisnik ima vremenski interval kada je moguce pristupiti ispitu
-  - 30tak pitanja
-  - prag od 70%
-  - relativno lagan ako ste radili po pitanjima iz [knjige]
-  - moguće je varanje jer se ne zahtjevaju snimanje s kamerom i slicno ali sacuvajte dobar obraz pa sve legalno prodjite
-  - stvarno je lagano
-- usmeni ispit
-  - termin od [tad do tad](vidi mailove)
-  - u prostorima hls-a
-  - pitanja se mogu nauciti iz [opet one knjige s pitanjima]
-  - meni je bio profesor (dodaj koji)
-  - 1 na 1 ispitivanje
-  - navedi pitanja
-    - pitanja su osnovna
-    - nabroji krupne divljači
-    - sto radi lovnik u lovu
-    - ako jelen obican na jednoj strani rogovlja ima 6 parozaka, a na drugoj strani 6, navedi trofejni razred - nesimetricni dvanaesterac
-    - razlika privatnih od drzavnih lovista
-  - oko 10 min razgovora
-  - pristupacna pitanja uz pojasnjenja profesora ako se nesto nije znalo
+
 - cekanje papirologije
   - vidi mail koliko se dugo cekalo
 - podizanje lovacke iskaznice
@@ -121,19 +97,64 @@ Online edukacija HLS-a za zvanje lovca vrlo je praktična jer od osobe ne izisku
 
 Prijava na online edukaciju za zvanje lovca obavili smo pomoću [hls-edu.hr](https://hls-edu.hr) platforme registracijom na stranici [hls-edu.hr/registracija](https://hls-edu.hr/registracija/). Sluzbene upute za registraciju mogu se pronaci [ovdje](https://hls-edu.hr/wp-content/uploads/2022/03/HLS-EDU-help.pdf).
 
-Prilikom registracije pomoću formulara potrebno je priloziti osobne podatke kao sto su ime i prezime, datum rodjenja, mjesto prebivalista i dr., lice i nalicje osobne iskaznice, bankovna potvrda o placanju edukacije (€66.36) ili fotografija uplatnice, profilna fotografija i dr. Jednom kada smo pohranili sve potrebne podatke slijedi cekanje potvrde HLS-a da su svi podaci valjani i da nam dopuste da sudjelujemo u edukaciji.
+Prilikom registracije pomoću formulara potrebno je priloziti osobne podatke kao sto su ime i prezime, datum rodjenja, mjesto prebivalista i dr., lice i nalicje osobne iskaznice, bankovna potvrda o placanju edukacije (€66.36) ili fotografija uplatnice, profilna fotografija i dr. Jednom kada smo pohranili sve potrebne podatke slijedi cekanje potvrde HLS-a da su svi podaci valjani i da nam dopuste da sudjelujemo u edukaciji. Valja napomenuti kako su autoru pristup za online edukaciju omogućili nakon svega jednog dana od dana registracije (i plačanja) što je vrlo brzo.
 
 Moramo spomenuti i pohvaliti pristupacnu cijenu online edukacije od svega 500 kn (€66.36). Razlog pristupacne cijene je u tome sto nedostaje (mladih) hrvatskih lovaca koji bi se u buducnosti brinuli o hrvatskim lovistima. Alternativne edukacije za lovca postoje u drugim ucilistima, ali cijenovno su visestruko skuplje. Kvalitetu takvih edukacija u usporedbi sa online edukacijom HLS-a autor ne može suditi jer ne posjeduje iskustvo. Naravno, valja uzeti u obzir sve reperkusije koje donosi online predavanja kao što je cinjenica da nakon uspjesno odgledanih online predavanja o lovstvu, pristupnik još uvijek nije dobio doticaj sa pravim svijetom lovstva. Čak štoviše, nakon uspješno položenog ispita za lovca, pristupnik doslovce nije morao primiti pušku u ruke. Naravno, netko bi mogao reći kako za zvanje lovca nije potrebno rukovati oružjem jer djelatnost lovca nije samo u odstrelu divljači već i u brizi za lovištem (kao što ćete ćuti na predavanjima).
 
 #### 1.2 Online edukacija
 
-Nakon uspjesne registracije slijedi online edukacija. Online edukacija sastoji se od otprilike 6 ciklusa o lovstvu, gdje je svakom ciklusu dodijeljena odredjena teorijska cijelina. Svaki ciklus sastoji se od unaprijed snimljenih videozapisa gdje svaki videozapis traje otprilike oko dva sata. Predavanja su vrlo dobro snimljena. Sve se dobro vidi i čuje, te su zanimljiva i poučna. Autor priznaje kako prije nego što se je odlučio postati lovcem, nije bio toliko zainteresiran za lovstvo, već je samo zelio dobiti lovačku iskaznicu, ali nakon odslusanih predavanja shvatio je kako je lovstvo cijenjena i potrebna djelatnost i da se ona ne sastoji samo u odstrelu zivotinja, kako će to neki možda pojednostaviti. Videozapisi se mogu prikazivati onda kada vi to zelite i koliko puta zelite, što pruža veliku fleksibilnost.  
+Nakon uspjesne registracije slijedi online edukacija. Online edukacija sastoji se od 6 teorijskih ciklusa o lovstvu. Popis ciklusa je sljedeći:
 
-Valja spomenuti kako postoji i jedno predavanje uživo u prostorima HLS-a ([Ul. Vladimira Nazora 63, 10000, Zagreb](https://goo.gl/maps/p52NiMSh7EYa3Qnx7)), te ukljucuje jedno dvo-satno predavanje o lovačkom oružju. Predavanje je obvezno i sudionici će se morati potpisati na papir kako bi dokazali svoje prisutstvo. Na predavanju je bilo prisutno oko 20 polaznika. Na poučnom predavanju pokazali su nam nekoliko tipova lovačkog oružja. Predavač je dao nekoliko praktičnih savjeta oko nabavke lovačkog oružja i njegovog održavanja. Autor preporuča da prije predavanja pristupnik odgleda online videozapise predavanja kako bi lakše pratio tematiku. Nakon predavanja, sudionici su imali prilike obići prostore muzeja HLS-a gdje su vidjeli primjerke raznih divljači - medvjeda, srnjaka, divlje svinje, jelena i dr. Takodjer, u muzeju je moguće vidjeti i nekoliko primjeraka vrhunskih trofeja (vidi [HLS - trofeistika](http://www.hls.com.hr/trofeistika-2)) koji predstavljaju do tada najbolje primjerke trofeja ulovljenih u RH.
+1. Pravni propisi u lovstvu,
+2. Prirodoslovlje divljači,
+3. Gospodarenje lovištem,
+4. Lovna kinologija,
+5. Lovačko oružje i balistika,
+6. Osnove ekologije i zaštite prirode.
 
-Autor mora pohvaliti inicijativu nekoliko tada prisutnih pripadnica ženskog spola koje su se odvažile postati lovkinjama. Ovim putem autor poziva i ostale pripadnice da se odvaze u svijetu lovstva.  
+Svaki ciklus sastoji se od unaprijed snimljenih videozapisa gdje svaki videozapis traje otprilike dva sata. Predavanja su vrlo dobro snimljena. Sve se dobro vidi i čuje, te su zanimljiva i poučna. Autor priznaje kako prije nego što se je odlučio postati lovcem, nije bio toliko zainteresiran za lovstvo, već je samo zelio dobiti lovačku iskaznicu, ali nakon odslusanih predavanja shvatio je kako je lovstvo cijenjena i potrebna djelatnost i da se ona ne sastoji samo u odstrelu zivotinja, kako će to neki možda pojednostaviti. Videozapisi se mogu prikazivati onda kada vi to zelite i koliko puta zelite, što pruža veliku fleksibilnost.  
+
+##### Predavanje uživo
+
+Valja spomenuti kako postoji i jedno predavanje uživo u prostorima HLS-a ([Ul. Vladimira Nazora 63, 10000, Zagreb](https://goo.gl/maps/p52NiMSh7EYa3Qnx7)), te ukljucuje jedno dvo-satno predavanje o lovačkom oružju. Predavanje je obvezno i sudionici će se morati potpisati na papir kako bi dokazali svoje prisutstvo. Obavijest o predavanju autor je dobio otprilike tjedan dana od dana registracije gdje su ga obavijestili da je termin predavanja uživo tek za 2 tjedna. Na predavanju je bilo prisutno oko 20 polaznika. Na poučnom predavanju pokazali su nam nekoliko tipova lovačkog oružja. Predavač je dao nekoliko praktičnih savjeta oko nabavke lovačkog oružja i njegovog održavanja. Autor preporuča da prije predavanja pristupnik odgleda online videozapise predavanja kako bi lakše pratio tematiku. Nakon predavanja, sudionici su imali prilike obići prostore muzeja HLS-a gdje su vidjeli primjerke raznih divljači - medvjeda, srnjaka, divlje svinje, jelena i dr. Takodjer, u muzeju je moguće vidjeti i nekoliko primjeraka vrhunskih trofeja (vidi [HLS - trofeistika](http://www.hls.com.hr/trofeistika-2)) koji predstavljaju do tada najbolje primjerke trofeja ulovljenih u RH.
+
+Autor mora pohvaliti inicijativu nekoliko tada prisutnih pripadnica ženskog spola koje su se odvažile postati lovkinjama. Ovim putem autor poziva i ostale pripadnice da se odvaze u svijetu lovstva.
 
 #### 1.3 Pismeni i usmeni ispit
+
+Nakon otprilike tjedan dana od dana registracije na online edukaciju, autoru je stigao email s obavijesti o terminu online ispita. Ispit je bio zakazan tek 3 tjedna nakon dana pristupa sustavu online predavanja što znači da ćete imati i više nego dovoljno vremena pripremiti se za ispit.
+
+##### Probni ispiti
+
+Prije samog ispita, sustav edukacije omogućuje rješavanje probnih ispita. Probni ispiti sadrže identična pitanja koja bi vam mogla doći u pravi ispit. Probni ispit možete rješavati koliko god puta želite i idealni je način za vježbu kao i samo upoznavanje s oblikom pitanja koja će vam doći u ispitu. Probni ispit će na samom kraju pokazati na koja ste pitanja točno odgovorili, a na koja krivo. Dodajemo kako probni ispit kraće traje od pravog, odnosno da sadrži manji broj pitanja. Autor nije siguran postoji li zaseban korpus pitanja za probni  i za realni ispit. Ako ne postoji, to znači da praktično možete odgovoriti na sva pitanja iz ispita i tako ih potpuno uvježbati.
+
+##### Online ispit
+
+Pristupnik će u emailu nakon par dana od registracije dobiti termin održavanja pismenog ispita. Pristup online ispitu moguć je isključivo u terminu od 00:01 do 23:59 na dan održavanja ispita. Pismeni ispit moguće je rješavati samo jednom. Trajanje ispita ograničeno je na 45 minuta s ukupno 30 pitanja. Za uspješan prolaz potrebno je točno odgovoriti na 70% pitanja (21 točan odgovor). Pitanja se ne mogu preskakati i ne može se vraćati na već prethodno postavljeno pitanje. Nakon završetka ispita kandidati mogu odmah vidjeti svoje rezultate.
+
+Ispit je autoru bio relativno jednostavan ako ste se pripremili pomoću probnih ispita i pomoću zbirke s ispitnim pitanjima (vidi [Literaturu](#literatura)). Na ispitu je, naravno, moguće varati tako odgovore na pitanja gledate na šalabahteru ili preko Google-a. Ovim putem uvjeravamo čitatelja kako zaista nije potrebno koristiti pomagala jer ispit nije težak. Zar biste uprljali svoj obraz tako što ćete varati na nečemu što ste svojevoljno upisali? Nadamo se da ne.
+
+Autoru je ukupno za pripremu ispita trebalo oko desetak sati učenja, i nerado priznaje kako je učio tek zadnja dva dana pred ispit.
+
+##### Usmeni ispit
+
+Obavijest o usmenom ispitu dobili smo također preko emaila. Termin usmenog ispita je bio točno tjedan dana nakon termina online ispita i to u prostorima HLS-a (treći kat) od 12 do 18 sati. Na usmeni ispit nije se potrebno najaviti već dođete u bilo kojem satu unutar termina u ovisnosti o vašim obvezama.
+
+Autor se za usmeni ispit pripremio tako što je dan pred ispit odgovorio na sva pitanja za usmeni ispit unutar zbirke za pripremu ispita (vidi [Literaturu](#literatura)). Zbirka ukupno sadrži oko 500. pitanja za usmeni ispit što je i više nego dovoljno za prolaz ako znate odgovore na sva pitanja.
+
+Dolaskom u prostore HLS-a, autor je otišao na treći kat, javio se zaposlenicima koji su ga uputili u ured ispitivača. Autora je dočekao profesor koji mu je držao predavanje uživo. Sjeli smo za stol i uz kratak razgovor misli li se autor baviti lovstvom započeli usmeno ispitivanje. Ispitivač je autora pitao par vrlo osnovnih pitanja koja su se ticala osnova lovstva. U tom trenu autor je shvatio kako je naučio puno više od onoga što se je zahtijevalo od njega na usmenom ispitu. Neka od pitanja su oblika: nabroji krupne divljači, koja je funkcija lovnika, može li se loviti bez lovnika, par osnovnih pitanja oko trofeistike, razlika državnog i privatnog lovišta i slična pitanja.
+
+Na nekoliko pitanja autor nije znao odgovor na što je ispitivač bio vrlo obziran te autora dodatno poučio.
+
+Sve u svemu, usmeni ispit trajao je svega 10. minuta i autoru je to bilo ugodno iskustvo. Autor ovim putem ohrabruje ispitanike kako nemaju razloga za zabrinutost i da će usmeni ispit zasigurno proći bez posebne muke. Sretno!
+
+##### Literatura
+
+Za uspješan prolazak ispita, literatura je (praktički) neizbježna. Uz naravno predavanja, za pripremu ispita preporučujemo službeno štivo pod imenom [Zbirka pitanja za polaganje lovačkog ispita](http://www.hls.com.hr/proizvod/zbirka-pitanja-hls) koje je moguće nabaviti u HLS-u po cijeni od €7.70 (u trenutku pisanja). Zbirka sadrži gotovo svako pitanje koje vam može doći na pismenom i usmenom ispitu. Zbirka osim pitanja sadrži i točne odgovore koji se nalaze na kraju knjige. Autor ne može dovoljno naglasiti važnost zbirke za bezbolan prolazak pismenog i usmenog ispita. Praktično bi bilo da zbirku odmah kupite nakon predavanja uživo.
+
+Osim zbirke, štivo za preporučiti je i [Osnove lovstva](http://www.hls.com.hr/proizvod/osnove-lovstva). U knjizi ćete naći cjeloukupno osnovno znanje o lovstvu koje će vam zasigurno pomoći.
+
+Autor je pokušao pronaći nekoliko primjeraka ispitnih pitanja na internetu, ali bilo koji drugi dokument ostalih učilišta na koje je naišao, bio je praktički nedorastao jer nije sadržavao niti približan broj pitanja koja su se našla u samim ispitima.
 
 #### 1.4 Izdavanje Lovačke iskaznice
 
