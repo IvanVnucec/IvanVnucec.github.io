@@ -16,14 +16,6 @@ tags:
 {% comment %}
 TODOS:
 
-- cekanje papirologije
-  - vidi mail koliko se dugo cekalo
-- podizanje lovacke iskaznice
-  - vidi mail za termine
-  - vidi koliko $ treba uplatit
-  - napisi kako rade od 7:00h ujutro al stranke primaju ili od 8 ili od pol8, napisi kako je frajer bio malko neljubazan a gospodja super ljubazna
-  - napisi zasto je mozda potrebno donjet drugu fotofrafiju
-  - napisi da se moze uzet opcija casopisa (vidi koji, kolko kosta)
 - lijecnicki pregled
   - navedi gdje si isao
   - napisi na koji pregled je potrebno ici - pregled za drzanje i nosenje oruzja
@@ -97,7 +89,9 @@ Online edukacija HLS-a za zvanje lovca vrlo je praktična jer od osobe ne izisku
 
 Prijava na online edukaciju za zvanje lovca obavili smo pomoću [hls-edu.hr](https://hls-edu.hr) platforme registracijom na stranici [hls-edu.hr/registracija](https://hls-edu.hr/registracija/). Sluzbene upute za registraciju mogu se pronaci [ovdje](https://hls-edu.hr/wp-content/uploads/2022/03/HLS-EDU-help.pdf).
 
-Prilikom registracije pomoću formulara potrebno je priloziti osobne podatke kao sto su ime i prezime, datum rodjenja, mjesto prebivalista i dr., lice i nalicje osobne iskaznice, bankovna potvrda o placanju edukacije (€66.36) ili fotografija uplatnice, profilna fotografija i dr. Jednom kada smo pohranili sve potrebne podatke slijedi cekanje potvrde HLS-a da su svi podaci valjani i da nam dopuste da sudjelujemo u edukaciji. Valja napomenuti kako su autoru pristup za online edukaciju omogućili nakon svega jednog dana od dana registracije (i plačanja) što je vrlo brzo.
+Prilikom registracije pomoću formulara potrebno je priloziti osobne podatke kao sto su ime i prezime, datum rodjenja, mjesto prebivalista i dr., lice i nalicje osobne iskaznice, bankovna potvrda o placanju edukacije (€66.36) ili fotografija uplatnice, profilna fotografija i dr. Unaprijed savjetujemo da priložite profilnu fotografiju koja je najsličnija onoj na osobnoj jer će vam pomoću te fotografije moći izraditi lovačku iskaznicu.
+
+Jednom kada smo pohranili sve potrebne podatke slijedi cekanje potvrde HLS-a da su svi podaci valjani i da nam dopuste da sudjelujemo u edukaciji. Valja napomenuti kako su autoru pristup za online edukaciju omogućili nakon svega jednog dana od dana registracije (i plačanja) što je vrlo brzo.
 
 Moramo spomenuti i pohvaliti pristupacnu cijenu online edukacije od svega 500 kn (€66.36). Razlog pristupacne cijene je u tome sto nedostaje (mladih) hrvatskih lovaca koji bi se u buducnosti brinuli o hrvatskim lovistima. Alternativne edukacije za lovca postoje u drugim ucilistima, ali cijenovno su visestruko skuplje. Kvalitetu takvih edukacija u usporedbi sa online edukacijom HLS-a autor ne može suditi jer ne posjeduje iskustvo. Naravno, valja uzeti u obzir sve reperkusije koje donosi online predavanja kao što je cinjenica da nakon uspjesno odgledanih online predavanja o lovstvu, pristupnik još uvijek nije dobio doticaj sa pravim svijetom lovstva. Čak štoviše, nakon uspješno položenog ispita za lovca, pristupnik doslovce nije morao primiti pušku u ruke. Naravno, netko bi mogao reći kako za zvanje lovca nije potrebno rukovati oružjem jer djelatnost lovca nije samo u odstrelu divljači već i u brizi za lovištem (kao što ćete ćuti na predavanjima).
 
@@ -157,6 +151,18 @@ Osim zbirke, štivo za preporučiti je i [Osnove lovstva](http://www.hls.com.hr/
 Autor je pokušao pronaći nekoliko primjeraka ispitnih pitanja na internetu, ali bilo koji drugi dokument ostalih učilišta na koje je naišao, bio je praktički nedorastao jer nije sadržavao niti približan broj pitanja koja su se našla u samim ispitima.
 
 #### 1.4 Izdavanje Lovačke iskaznice
+
+Nakon usmenog ispita slijedi period čekanja izrade potvrda o položenom lovačkom ispitu i stjecanju zvanja lovca. Autor je na dokumentaciju čekao nešto manje od tjedan dana. Potvrde se podižu također u HLS-u (treći kat). Odmah na licu mjesta moguće je izraditi lovačku iskaznicu koja će vam trebati prilikom izrade dozvole o nabavljanju oružja.
+
+<figure class="half">
+    <a href="/assets/images/_posts/postupci-za-nabavu-i-registraciju-vatrenog-oruzja-u-rh/iskaznica_front.jpg"><img src="/assets/images/_posts/postupci-za-nabavu-i-registraciju-vatrenog-oruzja-u-rh/iskaznica_front.jpg"></a>
+    <a href="/assets/images/_posts/postupci-za-nabavu-i-registraciju-vatrenog-oruzja-u-rh/iskaznica_back.jpg"><img src="/assets/images/_posts/postupci-za-nabavu-i-registraciju-vatrenog-oruzja-u-rh/iskaznica_back.jpg"></a>
+    <figcaption>Lovačka iskaznica.</figcaption>
+</figure>
+
+Za izradu lovačke iskaznice potrebno je posjetiti podrum sjedišta HLS-a. Izrada iskaznice traje svega nekoliko minuta. Cijena izrade lovačke iskaznice, identifikacijske markice za tekuću lovnu godinu i osiguranje u slučaju nezgode u lovu ukupno koštaju €39.82. Postoji i druga opcija od €53.09 koja osim spomenutog uključuje i 10 brojeva Lovačkog vjesnika, besplatne lovnokinološke utakmice i krvni trag, te veliki zidni lovački kalendar. Sve opcije moguće je platiti i karticom.
+
+Za više informacija posjetite internetsku stranicu HLS-a [ovdje](https://www.hls.com.hr/zahtjev).
 
 ### 2. Izdavanje dozvole za nabavu oružja
 
