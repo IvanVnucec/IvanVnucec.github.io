@@ -164,7 +164,7 @@ Nakon usmenog ispita slijedi period čekanja izrade potvrda o položenom lovačk
 
 Za izradu lovačke iskaznice potrebno je posjetiti podrum sjedišta HLS-a. Izrada iskaznice traje svega nekoliko minuta. Cijena izrade lovačke iskaznice, identifikacijske markice za tekuću lovnu godinu i osiguranje u slučaju nezgode u lovu ukupno koštaju €39.82. Postoji i druga opcija od €53.09 koja osim spomenutog uključuje i 10 brojeva Lovačkog vjesnika, besplatne lovnokinološke utakmice i krvni trag, te veliki zidni lovački kalendar. Sve opcije moguće je platiti i karticom.
 
-Za više informacija posjetite internetsku stranicu HLS-a [ovdje](https://www.hls.com.hr/zahtjev).
+Za više informacija o izradi lovačke iskaznice posjetite internetsku stranicu [ovdje](https://www.hls.com.hr/zahtjev).
 
 ### 2. Izdavanje dozvole za nabavu oružja
 
