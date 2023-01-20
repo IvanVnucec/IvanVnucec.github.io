@@ -155,8 +155,8 @@ Autor je pokušao pronaći nekoliko primjeraka ispitnih pitanja na internetu, al
 Nakon usmenog ispita slijedi period čekanja izrade potvrda o položenom lovačkom ispitu i stjecanju zvanja lovca. Autor je na dokumentaciju čekao nešto manje od tjedan dana. Potvrde se podižu također u HLS-u (treći kat). Odmah na licu mjesta moguće je izraditi lovačku iskaznicu koja će vam trebati prilikom izrade dozvole o nabavljanju oružja.
 
 <figure class="half">
-    <a href="assets/images/_posts/postupci-za-nabavu-i-registraciju-vatrenog-oruzja-u-rh/iskaznica_front.jpg"><img src="assets/images/_posts/postupci-za-nabavu-i-registraciju-vatrenog-oruzja-u-rh/iskaznica_front.jpg"></a>
-    <a href="assets/images/_posts/postupci-za-nabavu-i-registraciju-vatrenog-oruzja-u-rh/iskaznica_back.jpg"><img src="assets/images/_posts/postupci-za-nabavu-i-registraciju-vatrenog-oruzja-u-rh/iskaznica_back.jpg"></a>
+    <a href="/assets/images/iskaznica_front.jpg"><img src="/assets/images/iskaznica_front.jpg"></a>
+    <a href="/assets/images/iskaznica_back.jpg"><img src="/assets/images/iskaznica_back.jpg"></a>
     <figcaption>Lovačka iskaznica.</figcaption>
 </figure>
 
