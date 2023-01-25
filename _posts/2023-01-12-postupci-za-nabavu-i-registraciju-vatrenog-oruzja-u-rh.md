@@ -2,8 +2,6 @@
 title: "Postupci za nabavu i registraciju vatrenog oružja u RH"
 excerpt_separator: "<!--more-->"
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
   image: /assets/images/header-pistol.jpg
   image_description: "Header image of `HS H11` pistol."
   caption: "Photo credit: [**HS Produkt**](https://hs-produkt.hr)"
