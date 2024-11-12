@@ -4,6 +4,8 @@ categories:
   - Blog
 tags:
   - catchcam
+header:
+  image: /assets/images/components.jpg
 antenna_gallery:
   - url: /assets/images/kh-gps252504-wy_front.jpg
     image_path: /assets/images/kh-gps252504-wy_front.jpg
