@@ -42,7 +42,7 @@ The software resides on the `W25Q128JVSIQ` external 16MB flash chip, which is a 
 
 The second major part of the project is a GNSS module. I've searched for a low cost solution and stumbled on the `SIM68M` module from SIMCom Wireless Solutions Co.,Ltd. I've also seen u-blox ones, but I havent taken them into consideration because I've had good experiences with the SIMCom modules in the past. SIM68M features an in-built LNA amplifier with support for the active GNSS antenna. Futhermore, SIM68M supports all of the major GNSS satellite constellations so the device can work across the globe.
 
-{% include figure popup=true image_path="/assets/images/sim68m.webp" caption="SIM68M GNSS module. Courtesy of micros.com." %}
+{% include figure popup=true image_path="/assets/images/sim68m.jpg" caption="SIM68M GNSS module. Courtesy of micros.com." %}
 
 The second important factor is the GNSS antenna. I've spent great deal of time searching one. The idea is that the Catchcam would reside on the vehicle's dashboard with the clear view of the sky in order to achieve best signal reception.
 
@@ -76,7 +76,11 @@ The speaker is driven by the Audio amplifier that is powered by the filtered VBU
 
 The audio amplifier input signal is generated with 12-bit `TM8211` DAC and Low-pass Anti-aliasing/reconstruction filter (Sallen-Key topology). TM8211 is cheap chinese `PT8211` knockoff. The data from the microcontroller comes over I2S bus to the DAC, which is referenced to the filtered 5V VBUS. That all results in a 0.0-2.5 V signal swing at the DAC output.
 
+{% include figure popup=true image_path="/assets/images/tm8211.jpg" caption="TM8211 12-bit DAC. Courtesy of ebay.com." %}
+
 Audio samples are sampled with 44.1kHz frequency rate. Signal from the DAC output is then reconstructed with the active Low-pass filter with a cut-off frequency set to about half of the sampling frequency. For the active filter, I've chosen `TLV9061IDBVR` OP-AMP because it is a rail-to rail amplifier that can be powered with the 5V. Gain of the Low-pass filter is set to 1. I will write about signal generation and filtering in another post.
+
+{% include figure popup=true image_path="/assets/images/tlv9061idbvr.jpg" caption="TLV9061IDBVR OP-AMP. Courtesy of Lion Electronic." %}
 
 I've also incorporated `RK10J12R0A0B` knob type potentiometer so the user can set the audio volume. The potentiometer resistance directly affects the audio amplifier gain so the signal to the speaker can be reduced all the way to the zero.
 
@@ -98,7 +102,13 @@ Similarly, the GNSS signal status stays green as long as the GNSS data is valid,
 
 And lastly, there is a small `TSA002A3518B` 90 degree angle push-button that enables software updates. The idea is that the user can easily update its device firmware by connecting it to a PC and simply drag-and-drop the new firmware. In order to do that, the button needs to be pressed while the user connects USB cable to a PC. This would then trigger the in-built rp2040 USB mass storage bootloader which would then present the microcontroller storage as a USB mass storage media device and enable firmware drag-and-drop feature.
 
-{% include figure popup=true image_path="/assets/images/tsa002a3518b.jpg" caption="90 degree angle push-button. Courtesy of lcsc.com." %}
+{% include figure popup=true image_path="/assets/images/tsa002a3518b.jpg" caption="TSA002A3518B 90 degree angle push-button. Courtesy of lcsc.com." %}
+
+### Power Supply
+
+The 5V comes from the USB connector to the `NCP1117ST33T3G` 3.3V, 1A fixed voltage linear regulator. The 3.3V is then distributed to the microcontroller, and GNSS module. The 5V is then filtered with the simple CLC (PI) filter and then distributed to the DAC, Low-Pass filter, and finally to the audio amplifier. Audio filtering will be discussed in another post.
+
+{% include figure popup=true image_path="/assets/images/ncp1117st33t3g.jpg" caption="NCP1117ST33T3G 3.3V fixed voltage linear regulator. Courtesy of allegro.pl." %}
 
 ## Conclusion
 
