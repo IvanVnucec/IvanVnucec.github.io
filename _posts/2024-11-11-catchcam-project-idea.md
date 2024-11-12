@@ -6,7 +6,7 @@ tags:
   - catchcam
 ---
 
-I'm starting a new project called Catchcam - a plug and play speed camera detector that works completely offline. It's similar to Waze or Radarbot, but with total privacy in mind- nobody tracks where you are, and no internet needed. Just plug it into your vehicle USB socket and start driving.
+I'm starting a new project called Catchcam - a plug and play speed camera detector that works completely offline. It's similar to Waze or Radarbot, but with total privacy in mind - nobody tracks where you are, and no internet needed. Just plug it into your vehicle USB socket and start driving.
 It features:
 
 - Built-in speaker and LED for alerts
