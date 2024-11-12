@@ -100,6 +100,8 @@ Similarly, the GNSS signal status stays green as long as the GNSS data is valid,
 
 {% include figure popup=true image_path="/assets/images/tj-s3210sw5tglc6b-a5.jpg" caption="TJ-S3210SW5TGLC6B-A5 90 degree angle. Courtesy of everlighteurope.com." %}
 
+#### Software Update Button
+
 And lastly, there is a small `TSA002A3518B` 90 degree angle push-button that enables software updates. The idea is that the user can easily update its device firmware by connecting it to a PC and simply drag-and-drop the new firmware. In order to do that, the button needs to be pressed while the user connects USB cable to a PC. This would then trigger the in-built rp2040 USB mass storage bootloader which would then present the microcontroller storage as a USB mass storage media device and enable firmware drag-and-drop feature.
 
 {% include figure popup=true image_path="/assets/images/tsa002a3518b.jpg" caption="TSA002A3518B 90 degree angle push-button. Courtesy of lcsc.com." %}
