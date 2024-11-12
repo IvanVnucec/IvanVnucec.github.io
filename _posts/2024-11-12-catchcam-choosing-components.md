@@ -6,8 +6,6 @@ tags:
   - catchcam
 ---
 
-## Introduction
-
 Lets choose major hardware components for the Catchcam project. As I've written [before](https://ivanvnucec.github.io/tags/#catchcam), the idea is to have a plug and play device that alerts if the vehicle is approaching a speed camera both via sound and LED signal.
 
 Catchcam draws power from built in USB-C socket that is connected to a vehicle USB socket. As for the user interfaces, it has a small speaker, a volume potentiometer, System status LED, GPS signal status LED, Camera alert LED, and a Software update button (more on that later). In order to know the current position, Catchcam has GNSS module with an on-board Antenna. Moreover, to reproduce audio alerts, Catchcam incorporates DAC, Low-pass anti aliasing/reconstruction filter, and an Audio amplifier.
