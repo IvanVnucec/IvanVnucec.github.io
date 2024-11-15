@@ -56,7 +56,9 @@ I also want to mention [this](https://andybrown.me.uk/2015/07/24/usb-filtering/)
 
 ## Digital-to-Analog Converter (DAC)
 
-The DAC is responsible for converting the digital audio data from the microcontroller into an analog signal. I've chosen the `TM8211` DAC which is chinese version of `PT8211` DAC. It's a 16-bit two-channel DAC with I2S interface. Because it's R-2R type, the output voltage swing is from 0 to VDD/2 volts (as demonstrated [here](http://rcvt.tu-sofia.bg/ICEST2006_71.pdf)). In our case it's 2.5 volts. DAC sampling rate is set to 44.1 kHz, which is the standard audio sampling rate for CD-quality audio. The higher the sampling rate, the better the audio quality, but it also requires more memory (44.1 samples per second of audio) to store the audio data. I would like to mention [this](https://www.youtube.com/watch?v=d80DxAXqH4E) video from Sandrine Sims, where she had created a fun project using the PT8211 DAC.
+The DAC is responsible for converting the digital audio data from the microcontroller into an analog signal. I've chosen the `TM8211` DAC which is chinese version of `PT8211` DAC. It's a 16-bit two-channel DAC with I2S interface. Because it's R-2R type, the output voltage swing is from 0 to VDD/2 volts (as demonstrated [here](http://rcvt.tu-sofia.bg/ICEST2006_71.pdf)). So, in our case it's 2.5 volts. DAC sampling rate is set to 44.1 kHz, which is the standard audio sampling rate for CD-quality audio. The higher the sampling rate, the better the audio quality, but it also requires more memory (44.1 samples per second of audio) to store the audio data. We are using only one channel of the DAC because we have only one speaker.
+
+I would like to mention [this](https://www.youtube.com/watch?v=d80DxAXqH4E) video from Sandrine Sims, where she had created a fun project using the PT8211 DAC. Also, [this](https://www.youtube.com/watch?v=HQVSznvnHh8) video from Gadget Reboot nicely explains the PT8211 DAC and compares it to the direct MP3 output, and `UDA1334A` DAC.
 
 ## Anti-Aliasing Filter (AAF)
 
