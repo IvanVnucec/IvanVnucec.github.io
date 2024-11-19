@@ -119,3 +119,5 @@ And that is basically it when it comes to the components. We're left with the pa
 ### Future considerations
 
 I've thought a lot about incorporating so the device can be mounted on a vehicles that are lacking USB ports such as old vehicles or motorcycles, but I've dropped the idea for now because I don't want to drop design simplicity in the project prototype phase. I've also been thinking about incorporating GSM module so the devices can automatically update its software, but that was also dropped because of the complexities involving a server that would enable those updates. Also I would need to have SIM cards that works across the globe, and with different internet providers... Just not worth it for now.
+
+Also, if you're interested, you can pre-order a sample at [vnucec.ivan@gmail.com](mailto:vnucec.ivan@gmail.com).

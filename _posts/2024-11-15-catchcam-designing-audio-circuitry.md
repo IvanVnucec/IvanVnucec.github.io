@@ -91,3 +91,5 @@ And here is the final PCB layout of the audio circuitry:
 {% include figure popup=true image_path="/assets/images/audio_pcb.png" caption="Audio PCB layout." %}
 
 Stay tuned for more updates on the Catchcam project!
+
+Also, if you're interested, you can pre-order a sample at [vnucec.ivan@gmail.com](mailto:vnucec.ivan@gmail.com).
