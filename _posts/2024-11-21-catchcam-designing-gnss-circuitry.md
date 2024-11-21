@@ -101,4 +101,5 @@ Also, I would like to experiment with different ground plane sizes to see how it
 
 Thank you for reading this post. If you have any questions or suggestions, feel free to leave a comment below. Stay tuned for more updates on the Catchcam project.
 
-Also, if you're interested, you can pre-order a sample at [vnucec.ivan@gmail.com](mailto:vnucec.ivan@gmail.com).
+**Note:** If you're interested, you can pre-order a sample at [vnucec.ivan@gmail.com](mailto:vnucec.ivan@gmail.com).
+{: .notice--warning}
