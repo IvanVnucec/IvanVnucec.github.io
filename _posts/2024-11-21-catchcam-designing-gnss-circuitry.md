@@ -6,6 +6,11 @@ tags:
   - catchcam
 header:
   image: /assets/images/gnss_testing.jpg
+antenna_gallery:
+  - url: /assets/images/kh-gps252504-wy_front.jpg
+    image_path: /assets/images/kh-gps252504-wy_front.jpg
+  - url: /assets/images/kh-gps252504-wy_back.jpg
+    image_path: /assets/images/kh-gps252504-wy_back.jpg
 ---
 
 In this post, I will discuss the design and implementation of the GNSS circuitry for my Catchcam project.
@@ -14,7 +19,11 @@ If you haven't already, I recommend reading my previous post on [Catchcam: Choos
 
 ## GNSS Module
 
-`SIM68M` is quite a simple GNSS module. It is powered by a 3.3V supply, has a built-in LNA, supports both active and passive antennas, and communicates over UART using the [NMEA](https://simcom.ee/documents/SIM33ELA/MT3333%20Platform%20NMEA%20Message%20Specification%20For%20GPS%2BGLONASS_V1.00.pdf) protocol. However, I've encountered a couple of issues during implementation.
+`SIM68M` is quite a simple GNSS module. It is powered by a 3.3V supply, has a built-in LNA, supports both active and passive antennas, and communicates over UART using the [NMEA](https://simcom.ee/documents/SIM33ELA/MT3333%20Platform%20NMEA%20Message%20Specification%20For%20GPS%2BGLONASS_V1.00.pdf) protocol.
+
+{% include figure popup=true image_path="/assets/images/sim68m.jpg" caption="SIM68M GNSS module. Courtesy of micros.com." %}
+
+However, I've encountered a couple of issues during implementation.
 
 The datasheet specified a baud rate of 115200 (see the image below), but in reality, the module operated at 9200 baud. However, this was not a big issue, because the baud rate can be easily configured by sending the appropriate AT command over UART.
 
@@ -24,11 +33,15 @@ Additionally, the datasheet lacked information about the part orientation in the
 
 ## Antenna
 
-I've decided to go with the 25x25 mm `KH-GPS252504-WY` GNSS antenna. It was really cheap one, although the datasheet is a bit lacking when it comes to the recommended ground plane size (more on that later). I reached out to the manufacturer for some clarity, and their customer support was surprisingly helpful. They told me a 50x50 mm ground plane would do the trick, but they didn't really explain why. Still, they were generous enough to offer 10 free samples for our project, which was a nice gesture.
+I've decided to go with the 25x25 mm `KH-GPS252504-WY` GNSS antenna.
+
+{% include gallery id="antenna_gallery" caption="KH-GPS252504-WY GNSS Ceramic Patch antenna. Courtesy of lcsc.com." %}
+
+It was really cheap one, although the datasheet is a bit lacking when it comes to the recommended ground plane size (more on that later). I reached out to the manufacturer for some clarity, and their customer support was surprisingly helpful. They told me a 60x60 mm ground plane would do the trick, but they didn't really explain why. Still, they were generous enough to offer 10 free samples for our project, which was a nice gesture.
 
 ## PCB Design
 
-I've chosen `GND - SIG/PWR - SIG/PWR - GND` stackup for my 4-layer PCB because the GNSS Antenna needs a solid ground plane beneath it to work properly. Antenna is placed on the top side, while the GNSS module and the rest of the system circuitry is placed on the bottom side. This way, the antenna feed pin is as close as possible to the module in order to minimize PCB signal loss and interference. The stackup I've chosen is not ideal because the inner signals are not shielded by the ground planes as they would be in a more popular `SIG/PWR - GND - GND -SIG/PWR` stackup.
+I've chosen `GND - SIG/PWR - SIG/PWR - GND` stackup for my 4-layer PCB because the GNSS Antenna needs a solid ground plane beneath it to work properly. Antenna is placed on the top side, while the GNSS module and the rest of the system circuitry is placed on the bottom side. This way, the antenna feed pin is as close as possible to the module in order to minimize PCB signal loss and interference. The stackup I've chosen is not ideal because the inner signals are not shielded by the ground planes as they would be in a more popular `SIG/PWR - GND - GND -SIG/PWR` stackup. The ground size is set to 60x60 mm, as recommended by the antenna manufacturer.
 
 {% include figure popup=true image_path="/assets/images/pcb_top_side.png" caption="PCB from the Top side. Note that the antenna is the only part populated on the top side." %}
 
@@ -36,7 +49,9 @@ I couldn't manage to get 50 Ohm impedance on the GNSS signal trace with the chos
 
 {% include figure popup=true image_path="/assets/images/antenna_signal_trace.png" caption="Antenna, matching network, and GNSS module footprints as seen from the bottom side." %}
 
-Note that the antenna resonant frequency shifts with different ground plane sizes as shown in [this](https://tools.molex.com/pdm_docs/as/2088900001-AS.pdf) Application specification. I've contacted the manufacturer for ground plane size recommendation and they have said that a 50x50 mm ground plane is sufficient for my use case, but they didn't really explain why. Still, they were generous enough to offer me 10 free samples, which was a nice gesture.
+Note that the antenna resonant frequency shifts with different ground plane sizes as shown in [this](https://tools.molex.com/pdm_docs/as/2088900001-AS.pdf) Application specification.
+
+{% include figure popup=true image_path="/assets/images/antenna_efficiency_vs_pcb_size.png" caption="Antenna resonant frequency shift with different PCB sizes. Curtesy of tools.molex.com." %}
 
 Also, you can see that I've spaced out any other trace or component that might potentially interfere with the GNSS signal. I've surrounded the GNSS signal trace with lots of ground stitching vias to create a signal waveguide in order to minimize interference.
 
