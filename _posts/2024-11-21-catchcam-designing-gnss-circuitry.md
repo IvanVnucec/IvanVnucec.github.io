@@ -89,6 +89,8 @@ Using GNSS module, the Time-to-first-fix upon cold-start was around 30 seconds u
 
 The module was able to maintain a fix even in the middle of a room with no windows, which is quite impressive. Also, the module was able to get a fix when placed on a car seat, so they don't need to be placed on the car dashboard, which is a plus in our case.
 
+{% include figure popup=true image_path="/assets/images/gnss_testing.jpg" caption="The moment I've managed to make a first GPS signal fix." %}
+
 ## Conclusion and Future considerations
 
 Overall, I'm really satisfied with the GNSS circuitry design and implementation, however there are a couple of things I would like to improve in the future.
