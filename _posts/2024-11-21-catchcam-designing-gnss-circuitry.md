@@ -55,7 +55,7 @@ Note that the antenna resonant frequency shifts with different ground plane size
 
 Also, you can see that I've spaced out any other trace or component that might potentially interfere with the GNSS signal. I've surrounded the GNSS signal trace with lots of ground stitching vias to create a signal waveguide in order to minimize interference.
 
-I would like to mention [this](https://cadlab.io/project/27806/master/circuit/NDAwNjg4LlBjYkRvYw%3D%3D) `nRF9161-dk` reference design, which was quite helpful in designing the GNSS circuitry. Also, the [ANR017 GNSS ANTENNA SELECTION](https://www.we-online.com/catalog/media/o171079v410%20ANR017_GNSS_Antenna_Selection.pdf) guide helped me understand that the best way to place a GNSS antenna is in the middle of the PCB and with a solid ground plane beneath it.
+I would like to mention a [nRF9161-dk reference design](https://cadlab.io/project/27806/master/circuit/NDAwNjg4LlBjYkRvYw%3D%3D), which was quite helpful in designing the GNSS circuitry. Also, the [ANR017 GNSS ANTENNA SELECTION](https://www.we-online.com/catalog/media/o171079v410%20ANR017_GNSS_Antenna_Selection.pdf) guide helped me understand that the best way to place a GNSS antenna is in the middle of the PCB and with a solid ground plane beneath it.
 
 ## Testing
 
