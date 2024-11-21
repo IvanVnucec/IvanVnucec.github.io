@@ -79,7 +79,7 @@ The grayed out area is the GNSS L1 band, which is the frequency range where the 
 
 {% include figure popup=true image_path="/assets/images/gnss_bands.png" caption="GNSS bands. Courtesy of farnell.com." %}
 
-Next, we've calculated the matching network components values using `MegiQ VNA` software, but since I'm quite pleased with the antenna characteristics, I've decided not to populate them and leave the 0 Ohm resistors in place.
+We've also calculated the matching network components values using `MegiQ VNA` software, but since I'm quite pleased with the antenna characteristics, I've decided not to populate them and leave the 0 Ohm resistors in place.
 
 ### GNSS Module performance
 
