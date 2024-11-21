@@ -22,6 +22,9 @@ Lets choose major hardware components for the Catchcam project. As I've written 
 
 Catchcam draws power from built in USB-C socket that is connected to a vehicle USB socket. As for the user interfaces, it has a small speaker, a volume potentiometer, System status LED, GPS signal status LED, Camera alert LED, and a Software update button (more on that later). In order to know the current position, Catchcam has GNSS module with an on-board Antenna. Moreover, to reproduce audio alerts, Catchcam incorporates DAC, Low-pass anti aliasing/reconstruction filter, and an Audio amplifier.
 
+**Note:** If you're interested, you can pre-order a sample at [vnucec.ivan@gmail.com](mailto:vnucec.ivan@gmail.com).
+{: .notice--warning}
+
 Lets go through the components one by one.
 
 ## Components
@@ -120,4 +123,5 @@ And that is basically it when it comes to the components. We're left with the pa
 
 I've thought a lot about incorporating so the device can be mounted on a vehicles that are lacking USB ports such as old vehicles or motorcycles, but I've dropped the idea for now because I don't want to drop design simplicity in the project prototype phase. I've also been thinking about incorporating GSM module so the devices can automatically update its software, but that was also dropped because of the complexities involving a server that would enable those updates. Also I would need to have SIM cards that works across the globe, and with different internet providers... Just not worth it for now.
 
-Also, if you're interested, you can pre-order a sample at [vnucec.ivan@gmail.com](mailto:vnucec.ivan@gmail.com).
+**Note:** If you're interested, you can pre-order a sample at [vnucec.ivan@gmail.com](mailto:vnucec.ivan@gmail.com).
+{: .notice--warning}

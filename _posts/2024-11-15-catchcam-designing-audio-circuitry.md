@@ -8,7 +8,12 @@ header:
   image: /assets/images/designing_audio_circuitry_header.png
 ---
 
-In this post, I will be discussing the audio circuitry of the Catchcam. The audio circuitry is responsible for converting the digital audio data from the microcontroller into an analog signal that can be played through a speaker. Below is a block diagram of the audio circuitry of the Catchcam:
+In this post, I will be discussing the audio circuitry of the Catchcam. The audio circuitry is responsible for converting the digital audio data from the microcontroller into an analog signal that can be played through a speaker.
+
+**Note:** If you're interested, you can pre-order a sample at [vnucec.ivan@gmail.com](mailto:vnucec.ivan@gmail.com).
+{: .notice--warning}
+
+Below is a block diagram of the audio circuitry of the Catchcam:
 
 {% include figure popup=true image_path="/assets/images/audio_block_diagram.png" caption="Catchcam audio block diagram." %}
 
@@ -92,4 +97,5 @@ And here is the final PCB layout of the audio circuitry:
 
 Stay tuned for more updates on the Catchcam project!
 
-Also, if you're interested, you can pre-order a sample at [vnucec.ivan@gmail.com](mailto:vnucec.ivan@gmail.com).
+**Note:** If you're interested, you can pre-order a sample at [vnucec.ivan@gmail.com](mailto:vnucec.ivan@gmail.com).
+{: .notice--warning}

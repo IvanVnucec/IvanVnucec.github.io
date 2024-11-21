@@ -17,6 +17,9 @@ In this post, I will discuss the design and implementation of the GNSS circuitry
 
 If you haven't already, I recommend reading my previous post on [Catchcam: Choosing Components](https://ivanvnucec.github.io/blog/catchcam-choosing-components/#gnss-module-and-antenna) to get some background on the component selection process. In that post, I discussed my decision to use the `SIM68M` GNSS module and the `KH-GPS252504-WY` Ceramic Patch antenna for my project. In this post, I'll dive deeper into the design and implementation of the GNSS circuitry.
 
+**Note:** If you're interested, you can pre-order a sample at [vnucec.ivan@gmail.com](mailto:vnucec.ivan@gmail.com).
+{: .notice--warning}
+
 ## GNSS Module
 
 `SIM68M` is quite a simple GNSS module. It is powered by a 3.3V supply, has a built-in LNA, supports both active and passive antennas, and communicates over UART using the [NMEA](https://simcom.ee/documents/SIM33ELA/MT3333%20Platform%20NMEA%20Message%20Specification%20For%20GPS%2BGLONASS_V1.00.pdf) protocol.

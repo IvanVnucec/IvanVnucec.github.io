@@ -14,3 +14,6 @@ It features:
 - Easy updates - just plug into your PC and drag-and-drop latest software
 
 I'll keep you updated on the progress! Stay tuned.
+
+**Note:** If you're interested, you can pre-order a sample at [vnucec.ivan@gmail.com](mailto:vnucec.ivan@gmail.com).
+{: .notice--warning}
