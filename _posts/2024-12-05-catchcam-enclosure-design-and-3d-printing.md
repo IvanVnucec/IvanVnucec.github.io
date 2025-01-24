@@ -94,7 +94,7 @@ After an extensive search for a suitable off-the-shelf enclosure, I decided to d
 **Note:** If you're interested, you can pre-order a sample at [vnucec.ivan@gmail.com](mailto:vnucec.ivan@gmail.com).
 {: .notice--warning}
 
-### Design Inspiration
+## Design Inspiration
 
 The main inspiration for the enclosure design came from the [Digilent Analog Discovery 3](https://digilent.com/reference/test-and-measurement/analog-discovery-3/start) device. I really liked the look and feel of that enclosure, especially the rounded edges and the overall simplicity of the design. I decided to adopt a similar design for my Catchcam project.
 
